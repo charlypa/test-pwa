@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "dev.phcode.twa",
+    "sha256_cert_fingerprints": [
+      "70:CF:99:90:7A:3F:C2:C4:1E:26:DE:01:DC:00:99:C3:E0:3D:F8:89:F3:59:F5:DE:9C:3A:EB:3B:51:68:19:5A"
+    ]
+  }
+}]
