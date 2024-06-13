@@ -1,21 +1,11 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "dev.phcode.twa",
-    "sha256_cert_fingerprints": [
-      "18:BF:CD:EE:B2:5B:BA:CB:F8:BE:76:FD:42:91:FE:0E:9F:43:EE:8B:51:4A:C5:3C:45:93:29:7C:70:CA:01:98"
-    ]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.charlypa.twa",
+      "sha256_cert_fingerprints":
+        ["18:BF:CD:EE:B2:5B:BA:CB:F8:BE:76:FD:42:91:FE:0E:9F:43:EE:8B:51:4A:C5:3C:45:93:29:7C:70:CA:01:98"]
+    }
   }
-},
-{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "dev.phcode.twa",
-    "sha256_cert_fingerprints": [
-      "AC:6B:15:51:5E:B4:E2:F9:B5:44:CC:DA:08:CF:B9:43:72:83:F0:0B:BB:E6:D1:F5:8B:71:14:F6:77:F6:4A:F1"
-    ]
-  }
-}]
-
+]
